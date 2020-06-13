@@ -16,10 +16,9 @@
 Цикломатската комплексност на овој код е 7, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=6, па цикломатската комплексност изнесува 7.
 
 ### Тест случаи според критериумот  Every branch 
-
 @Test
    
-   void testEveryBranch() {
+      void testEveryBranch() {
         User user = null;
         assertFalse(siLab2.function(user, createAllUsers()));
 
