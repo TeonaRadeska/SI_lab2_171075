@@ -18,7 +18,8 @@
 ### Тест случаи според критериумот  Every branch 
 
 @Test
-    void testEveryBranch() {
+   
+   void testEveryBranch() {
         User user = null;
         assertFalse(siLab2.function(user, createAllUsers()));
 
@@ -39,6 +40,7 @@
 ### Тест случаи според критериумот Every path
 
 @Test
+    
     void testEveryPath() {
         User user = null;
         assertFalse(siLab2.function(user, createAllUsers()));
