@@ -7,7 +7,7 @@
 Ја добив групата на код 1
 
 ###  Control Flow Graph
-
+<img src= "Untitled Diagram.png">
 
 Фотографија од control flow graph-ot 
 
